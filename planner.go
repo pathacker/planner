@@ -1,4 +1,4 @@
-// Planner reads the named files, default $HOME/lib/planner,
+// Planner reads the named files, default $HOME/lib/calendar,
 // and writes to standard output in calendar order any lines
 // containing matching dates for today and tomomrrow.
 // The '-n days' flag changes the number of days compared.
